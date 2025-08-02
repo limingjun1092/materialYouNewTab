@@ -1,45 +1,43 @@
-Initialized : Sun 20 Aug 2023 03∶41∶08 PM IST
-# Material You NewTab
-🚀 Experience a sleek NewTab or homepage theme for your browser, inspired by Google's 'Material You' design. This extension offers a wealth of functionality, including the ability to search using your preferred search engine (Google, DuckDuckGo, Bing, YouTube) without needing to change the search engine from the settings. It also provides convenient shortcuts to your favorite websites, theming functionality, and much more. 🛡️ This extension doesn't require any permissions, ensuring your privacy and security while browsing.
+初始化时间：2023年8月20日 星期日 下午 03:41:08 IST
+仓库备份时间：2025年8月2日 星期六 下午 07:09:33 UTC
+# Material You 新建标签页 (NewTab)
+🚀 为您的浏览器体验一款时尚的新建标签页或主页主题，灵感源自 Google 的 'Material You' 设计。此扩展功能丰富，包括：无需更改浏览器设置即可使用您偏好的搜索引擎（Google、DuckDuckGo、Bing、YouTube）进行搜索，提供访问您喜爱网站的便捷快捷方式，支持主题功能等等。🛡️ 此扩展无需任何特殊权限，确保您在浏览时的隐私和安全。
 
-![Screenshot 1](https://i.postimg.cc/q4vppz8n/preview1.webp)
-![Screenshot 2](https://i.postimg.cc/yVcHL9Hq/preview2.webp)
-![Screenshot 3](https://i.postimg.cc/Ch0VX1hR/preview3.webp)
+![截图 1](https://i.postimg.cc/q4vppz8n/preview1.webp)
+![截图 2](https://i.postimg.cc/yVcHL9Hq/preview2.webp)
+![截图 3](https://i.postimg.cc/Ch0VX1hR/preview3.webp)
 
-##  Installation Guide
+## 安装指南
 
-### Download
+### 下载
 
-Clone this repository to your local machine or download the latest release from [here](https://github.com/Code-by-imtiyaz/materialYouNewTab.git).
+将本仓库克隆到您的本地计算机，或从此处[下载最新发布版本](https://github.com/Code-by-imtiyaz/materialYouNewTab.git)。
 
-### Installation
+### 安装
 
-1. Copy & Paste url to your browser's search bar
+1.  在浏览器的地址栏中复制并粘贴以下 URL：
 
-	**Chrome** : ```chrome://extensions```
-	
-	**Egde** : ```edge://extensions```
-	
-	**Brave** : ```brave://extensions```
-	
-	
-2. Enable developer options (See the screenshots below)
-3. Click on 'Load unpacked' option
-4. Browse & Select your extension folder 
+    **Chrome**：```chrome://extensions```
 
-**Firefox** :
-[Download & Install as normal extension](https://addons.mozilla.org/en-US/firefox/addon/material-you-newtab/)
+    **Edge**：```edge://extensions```
 
+    **Brave**：```brave://extensions```
 
+2.  启用开发者模式（请参考下方截图）
+3.  点击“加载已解压的扩展程序”选项
+4.  浏览并选择您存放扩展程序的文件夹
 
-![Screenshot 1](https://i.postimg.cc/w6JYypvc/chrome.png)
+**Firefox**：
+[作为常规扩展下载并安装](https://addons.mozilla.org/en-US/firefox/addon/material-you-newtab/)
 
-![Screenshot 2](https://i.postimg.cc/0ksR7BKg/edge.png)
+![Chrome 截图](https://i.postimg.cc/w6JYypvc/chrome.png)
 
-![Screenshot 2](https://i.postimg.cc/bPW2fHX7/FireFox.png)
+![Edge 截图](https://i.postimg.cc/0ksR7BKg/edge.png)
 
-![Screenshot 2](https://i.postimg.cc/MqPSg5NR/brave.png)
+![Firefox 截图](https://i.postimg.cc/bPW2fHX7/FireFox.png)
 
-## Feedback
+![Brave 截图](https://i.postimg.cc/MqPSg5NR/brave.png)
 
-We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us via ✉️ [Email](mailto:xengshi@duck.com) or ✈️ [Telegram](https://t.me/xengshi).
+## 反馈
+
+我们重视您的反馈！如果您有任何建议、想法或问题，请随时通过 ✉️ [邮件](mailto:xengshi@duck.com) 或 ✈️ [Telegram](https://t.me/xengshi) 与我们联系。
